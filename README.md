@@ -1,3 +1,5 @@
+General Assemmbly lesson notes.
+
 # Cross-Validation
 
 By the end of this lecture, you will be able to:
