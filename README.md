@@ -1,4 +1,4 @@
-General Assemmbly lesson notes.
+General Assembly lesson notes.
 
 # Cross-Validation
 
